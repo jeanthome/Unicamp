@@ -1,0 +1,20 @@
+SEND Balu "Mensagem sad sadasdas pra carlho mesmo tipo muito longaGrandeesasasasasaseeeewqwqw Grandeesasasasasaseeeewqwqwqeee"
+
+SEND Jean "Mensagem sad sadasdas pra carlho mesmo tipo muito longaGrandeesasasasasaseeeewqwqw Grandeesasasasasaseeeewqwqwqeee"
+
+SEND Balu "Mensagem13 Grandeeeeeeeee"
+SEND Balu "Mensagem22 Grandeeeeeeeee"
+SEND Balu "Mensagem4 Grandeeeeeeeee"
+
+SENDG lasca "Recebi, PORRA"
+
+
+\{(\s*"(.+?)\s*"\s*:\s*(.+?)\s*)\}
+
+
+
+[ ] Imprimir nome do usuário no terminal;
+[ ] Verificar se usuário já está presente no grupo antes de tentar inserí-lo;
+[ ] Colocar escolha manual de porta no servidor;
+[ ] Bolar um esquema de mandar mensagem com aspas;
+

@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "F1F56A847ABE8BF046BCF01D44F5BC32F3307709",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "E9B5A8D7157F69CB70BD31B497E23706A53F53AE" : 9223372036854775807,
+    "F1F56A847ABE8BF046BCF01D44F5BC32F3307709" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "93D24B46-A0D2-4B93-99E2-009E6C3CE86C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "E9B5A8D7157F69CB70BD31B497E23706A53F53AE" : "",
+    "F1F56A847ABE8BF046BCF01D44F5BC32F3307709" : "Unicamp\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Projeto",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "[MC833]\/Projeto\/Projeto.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jeanthome\/Unicamp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E9B5A8D7157F69CB70BD31B497E23706A53F53AE"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jeanthome\/Unicamp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F1F56A847ABE8BF046BCF01D44F5BC32F3307709"
+    }
+  ]
+}
